@@ -14,3 +14,4 @@ Creating a new branch is quick and simple.
 <<<<<<<HEAD
 修改Bug
 >>>>>>>
+在练习一下分支
