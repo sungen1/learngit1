@@ -15,3 +15,4 @@ Creating a new branch is quick and simple.
 修改Bug
 >>>>>>>
 在练习一下分支
+没收到Bug任务之前
